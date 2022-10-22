@@ -13,7 +13,7 @@ This project was made after the competition exams of engineering school just for
 
 ## Introduction
  <a name="introduction"></a>
- ![Image 2048](assets\2048.PNG)
+ ![Image 2048](assets\2048.png)
 
 2048 is a popular single-player game for Web and mobile. It’s a type of “sliding block puzzle”. Like Sudoku, it also involves some math. The object of the game is to combine the numbers displayed on the tiles until you reach 2048 or just having the best score.
 
